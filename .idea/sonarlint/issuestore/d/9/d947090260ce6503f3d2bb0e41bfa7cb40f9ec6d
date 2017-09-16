@@ -1,0 +1,20 @@
+
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÚŠ 
+"squid:ClassVariableVisibilityCheck"PMake file a static final constant or non-public and provide accessors if needed.(ğ ½ºÿÿÿÿÿ
+[
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+Bsquid:S1185"(Remove this method to simply inherit it.(œƒƒ©ùÿÿÿÿ
+>squid:S00108")Either remove or fill this block of code.(ÿÒ„p
+T
+squid:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¤öäıÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"TMake tempFile a static final constant or non-public and provide accessors if needed.(´¿êŒ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë¤ôÄ
+>squid:S00108")Either remove or fill this block of code.(ïõÙE
+Bsquid:S1185"(Remove this method to simply inherit it.(¨Œşÿÿÿÿ
+=squid:S1185"(Remove this method to simply inherit it.(Ù«µ§
+^squid:S2583"DChange this condition so that it does not always evaluate to "false"(Œ¾§Æûÿÿÿÿ
+Xsquid:S2147"DCombine this catch with the one at line 63, which has the same body.(ÿÒ„p
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(÷¾·¸
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â»ªñ

@@ -1,0 +1,10 @@
+
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ±ù
+=squid:S1185"(Remove this method to simply inherit it.(öÿÕÅ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı€—Ò
+=squid:S1185"(Remove this method to simply inherit it.(ßìê¯
+€"squid:ClassVariableVisibilityCheck"TMake activity a static final constant or non-public and provide accessors if needed.(ˆèÖÌ
+Bsquid:S1185"(Remove this method to simply inherit it.(ÉÎÍïıÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“£¬Üøÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½»¯Ö
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(šƒî£ûÿÿÿÿ

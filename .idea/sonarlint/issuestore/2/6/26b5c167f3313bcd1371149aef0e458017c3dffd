@@ -1,0 +1,18 @@
+
+Ksquid:S00108")Either remove or fill this block of code.(Õó³÷úÿÿÿÿ8çâ±Ëè+
+xsquid:S00116"VRename this field "ImagesArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âˆ×–úÿÿÿÿ8çâ±Ëè+
+fsquid:HiddenFieldCheck":Rename "drawer" which hides the field declared at line 34.(ĞÍè¨şÿÿÿÿ8çâ±Ëè+
+|squid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¬ ¤Úşÿÿÿÿ8çâ±Ëè+
+Fsquid:S00108")Either remove or fill this block of code.(õœšÿ8çâ±Ëè+
+zsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8çâ±Ëè+
+Psquid:S1905"/Remove this unnecessary cast to "DrawerLayout".(ĞÍè¨şÿÿÿÿ8â·ğËè+
+Ksquid:S00108")Either remove or fill this block of code.(ê±›Ñüÿÿÿÿ8çâ±Ëè+
+Rsquid:S1905"1Remove this unnecessary cast to "NavigationView".(üûÍøÿÿÿÿ8â·ğËè+
+Fsquid:S00108")Either remove or fill this block of code.(ó´®8çâ±Ëè+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“×†éÿÿÿÿÿ8çâ±Ëè+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïáíÙşÿÿÿÿ8çâ±Ëè+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‘—Öÿÿÿÿÿ8çâ±Ëè+
+Isquid:S1604"(Make this anonymous inner class a lambda(ø‘—Öÿÿÿÿÿ8çâ±Ëè+
+Fsquid:S00108")Either remove or fill this block of code.(æÎà 8çâ±Ëè+
+ksquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(ïåÊü8â·ğËè+
+qsquid:S00116"TRename this field "NUM_PAGES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“õÕ8çâ±Ëè+

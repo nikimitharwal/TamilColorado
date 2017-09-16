@@ -1,0 +1,18 @@
+
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½»¯Ö
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ò¥Ë´
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¤‘ùþÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ê•ñüøÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ý€—Ò
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¤‘ùþÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"TMake activity a static final constant or non-public and provide accessors if needed.(ˆèÖÌ
+„"squid:ClassVariableVisibilityCheck"XMake fragmentType a static final constant or non-public and provide accessors if needed.(Ÿì»´
+Dsquid:S00108")Either remove or fill this block of code.(¤‘ùþÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®¹ªñþÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ô ö0
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°Ä®šùÿÿÿÿ
+=squid:S1185"(Remove this method to simply inherit it.(ßìê¯
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Àêè÷ýÿÿÿÿ
+Bsquid:S1185"(Remove this method to simply inherit it.(ÉÎÍïýÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
